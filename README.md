@@ -2,7 +2,7 @@
 
 ## To read the data from the ERP downloaded attendance excel/csv sheet and update the marks of evaluation sheet (experiment_1.xlsx…etc) as per the attendance record.
 
-As a educator, I need to continously assess the students based on thier practical performance for the final University Term Work Marks.
+As an educator, I need to continously assess the students based on thier practical performance for the final University Term Work Marks.
 
 I have been assigned the Aritficial Intelligence Lab (Second Year Engginering) which containts 10 Practicals. 
 
