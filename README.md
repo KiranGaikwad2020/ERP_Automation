@@ -28,7 +28,7 @@ Idnetifying this problem,
 
 - I designed this automation script, which will take the attedance csv file and Expeirment Blank Evaluation Excel sheet as input.
   
-- Based on atteadnce present in attednance csv file Evaluation sheet is updated.
+- Based on attendance present in attednance csv file Evaluation sheet is updated.
 
 -  ![Attendance Input CSV File](Images/InputCSVFile.png)
 -  ![Input Continuous Evaluation Sheet](Images/ContinousEvaluationSheet.png)
