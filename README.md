@@ -19,7 +19,7 @@ The Rubrics decided for the Pracitcal Assesment are as follows:
 - Performance/involvement/efficiency
   
 - Oral/Presentation
-- 
+  
 - Documentation/neatness
   
 Means for each practical with these for rubrics total marks to be updated in Continuous Evaluation Sheet which is iterative and time consuming.
